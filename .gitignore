@@ -1,0 +1,29 @@
+**/.terraform/*
+
+override.yaml
+base-override.yaml
+*.tar.gz
+**/output
+
+# Local .terraform directories
+**/.terraform/*
+
+# Local lock files for terraform without remote state mgmt
+**/.terraform.lock.hcl
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+
+# terraform out file
+**/terraform/*.out
+
+# terraform temp files
+**/terraform/*mcikubeconfig
+**/terraform/*.yml
+
+local-ansible
+cloudflare.auto.tfvars
+.DS_Store
+
