@@ -18,7 +18,7 @@ Directory | Comments |
 ---       |---       |
 000base | *Contains base resources such as VPCs, Subnets, Internal Zones, SNS etc..* |
 100data | *Contains data related resources such as RDS, Elasticache, S3 buckets, etc..* |
-200compute | *Contains compute related such as EC2, EKS, ASG, ALB/ELB, etc..* |
+200compute | *Contains compute related resources such as EC2, EKS, ASG, ALB/ELB, etc..* |
 
 ## Proposed Code structure
 
